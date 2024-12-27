@@ -1,24 +1,17 @@
-<h1 align="center">Hi , I'm Carlos Haro Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Carlos Haro Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Acerca de mí
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-</picture> About me
+- :flag-pe: Desde Trujillo, Perú
+- :school: Bachiller en [Ingeniería de Sistemas](https://facing.unitru.edu.pe/ingenieria-de-sistemas) por la [Universidad Nacional de Trujillo](https://www.unitru.edu.pe/).
+- :computer: Programador Full Stack con amplia experiencia en desarrollo Frontend.
+- :technologist: Apasionado por resolver problemas a través del software.
+- :student: En formación continua en Ciencias de la Computación y aprendizaje automático.
+- :nerd_face: Comprometido con el aprendizaje constante.
+- :thinking: Abierto a nuevas oportunidades laborales. Aquí está [mi CV](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :hourglass_flowing_sand: En camino a obtener mi licenciatura en Ingeniería de Sistemas.
+- :boom: Visita [mi sitio web](https://cutt.ly/Ahmed_Hossam_Website).
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-
-
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
-
-
-
