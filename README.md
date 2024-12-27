@@ -7,7 +7,7 @@
 
 <h2 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> ACERCA DE MÍ</h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"></picture>
 
 - 🇵🇪 Perú - Trujillo
 - :school: Bachiller en [Ingeniería de Sistemas](https://facing.unitru.edu.pe/ingenieria-de-sistemas) por la [Universidad Nacional de Trujillo](https://www.unitru.edu.pe/).
