@@ -17,7 +17,7 @@
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`. Aquí está [mi CV](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :hourglass_flowing_sand: Futuro licenciado en Ingeniería de Sistemas.
-- :boom: Puedes visitar [mi sitio web](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: Puedes visitar [mi sitio web](https://google.com).
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</h2>
 
